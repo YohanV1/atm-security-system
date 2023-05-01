@@ -11,3 +11,6 @@ Frameworks and tools used:
 - Blynk.io
 - Smtplib, email
 - Haar Cascade (cascade classifier)
+
+ ### Work in Progress
+ This project is currently in development and not yet complete.
